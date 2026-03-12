@@ -1,4 +1,5 @@
 BAJWABHAI
+
 BAJWABHAI is a community-driven digital ecosystem designed to organize useful websites, tools, resources, projects, and knowledge into a single open platform where creators and developers can discover, build, and contribute.
 The goal of BAJWABHAI.com is to create a practical environment for builders, learners, and innovators by connecting useful digital resources with community collaboration.
 This repository contains the core platform foundation for the BAJWABHAI ecosystem.
